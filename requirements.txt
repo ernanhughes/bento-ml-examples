@@ -1,0 +1,7 @@
+botocore<1.34.70
+bentoctl
+bentoml
+boto3
+numpy
+pydantic
+scikit-learn
